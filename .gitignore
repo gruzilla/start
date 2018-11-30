@@ -1,0 +1,5 @@
+vendor
+db
+app/assets/initial/initialTags.php
+app/assets/initial/initialGoals.php
+app/assets/initial/initialProjects.php
